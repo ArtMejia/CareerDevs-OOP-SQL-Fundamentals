@@ -1,3 +1,5 @@
+package Inherit;
+
 public class Mouse1 extends Mouse {
 
     String texture = "Matte";
