@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d772c628-1dae-4efd-9f05-d957f199a41f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OurProject/Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OurProject/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OurProject.Main">
     <configuration name="Inherit.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inherit.Main" />
       <module name="OOP SQL Fundamentals" />
@@ -45,8 +47,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OurProject.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OurProject.Main" />
+      <module name="OOP SQL Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OurProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OurProject.Main" />
         <item itemvalue="Application.Inherit.Main" />
       </list>
     </recent_temporary>
