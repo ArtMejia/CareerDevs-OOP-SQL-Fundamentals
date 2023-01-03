@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d772c628-1dae-4efd-9f05-d957f199a41f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OurProject/Class1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OurProject/Main.java" afterDir="false" />
+    <list default="true" id="d772c628-1dae-4efd-9f05-d957f199a41f" name="Changes" comment="Java Classes">
+      <change afterPath="$PROJECT_DIR$/src/Abstraction/AbstractTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +40,36 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OurProject.Main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AbstractTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstraction.AbstractTutorial" />
+      <module name="OOP SQL Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Inherit.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inherit.Main" />
       <module name="OOP SQL Fundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Main" />
+      <module name="OOP SQL Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,6 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AbstractTutorial" />
         <item itemvalue="Application.OurProject.Main" />
         <item itemvalue="Application.Inherit.Main" />
       </list>
@@ -76,6 +105,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672441520000</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java Classes">
+      <created>1672701793637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672701793637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +125,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Classes" />
   </component>
 </project>
